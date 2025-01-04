@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+numpy
+seaborn
+ipykernel
+Flask
+mlflow
+dvc
+apache-airflow
+pytest
+tox
+black
+flake8
+mypy
