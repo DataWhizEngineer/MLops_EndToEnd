@@ -12,3 +12,6 @@ tox
 black
 flake8
 mypy
+xgboost
+
+-e .
