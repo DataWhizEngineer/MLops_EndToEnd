@@ -44,7 +44,7 @@ class ModelEvaluation:
                 mlflow.log_metric("r2", r2)
                 mlflow.log_metric("mae", mae)
 
-                mlflow.set_registry_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
+                mlflow.set_tracking_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
 
 
             
