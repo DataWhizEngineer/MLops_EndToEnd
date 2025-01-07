@@ -28,6 +28,9 @@ class ModelEvaluation:
             model_path=os.path.join("artifacts","model.pkl")
             model=load_object(model_path)
 
+            os.environ["MLFLOW_TRACKING_USERNAME"] = "DataWhizEngineer"
+            os.environ["MLFLOW_TRACKING_PASSWORD"] = "68ef7d49f6590ae3f453d9b22d7da1e59a6f245b"
+
             mlflow.set_tracking_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
 
         
