@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/Mlops_EndToEnd/mlruns/0/b0699df632614c51a2d3a06ba8f33397/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0699df632614c51a2d3a06ba8f33397
+run_name: caring-sow-183
+run_uuid: b0699df632614c51a2d3a06ba8f33397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736247646591
+status: 1
+tags: []
+user_id: '91985'
