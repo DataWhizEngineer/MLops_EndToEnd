@@ -30,7 +30,6 @@ class ModelEvaluation:
 
         
 
-            #mlflow.set_registry_uri("https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow")
             
 
 
@@ -45,6 +44,10 @@ class ModelEvaluation:
                 mlflow.log_metric("r2", r2)
                 mlflow.log_metric("mae", mae)
 
+                mlflow.set_registry_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
+
+
+            
                 tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
             
 
