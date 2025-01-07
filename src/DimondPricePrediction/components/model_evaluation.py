@@ -28,7 +28,7 @@ class ModelEvaluation:
             model_path=os.path.join("artifacts","model.pkl")
             model=load_object(model_path)
 
-             mlflow.set_tracking_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
+            mlflow.set_tracking_uri("https://dagshub.com/DataWhizEngineer/MLops_EndToEnd.mlflow")
 
         
 
