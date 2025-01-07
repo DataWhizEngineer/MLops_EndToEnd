@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/Mlops_EndToEnd/mlruns/0/a20a331a113943618ce4fdce6f8b0bb0/artifacts
+end_time: 1736245757527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20a331a113943618ce4fdce6f8b0bb0
+run_name: chill-worm-397
+run_uuid: a20a331a113943618ce4fdce6f8b0bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736245751359
+status: 3
+tags: []
+user_id: '91985'
