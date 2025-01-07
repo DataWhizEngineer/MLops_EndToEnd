@@ -13,5 +13,6 @@ black
 flake8
 mypy
 xgboost
+dagshub
 
 -e .

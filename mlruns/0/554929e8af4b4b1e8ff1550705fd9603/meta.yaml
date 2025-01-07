@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/Mlops_EndToEnd/mlruns/0/554929e8af4b4b1e8ff1550705fd9603/artifacts
+end_time: 1736244515264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 554929e8af4b4b1e8ff1550705fd9603
+run_name: fortunate-grouse-618
+run_uuid: 554929e8af4b4b1e8ff1550705fd9603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736244496283
+status: 3
+tags: []
+user_id: '91985'
