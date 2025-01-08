@@ -14,3 +14,4 @@ stages:
       - artifacts/train.csv
       - artifacts/preprocessor.pkl
       - artifacts/model.pkl
+      
